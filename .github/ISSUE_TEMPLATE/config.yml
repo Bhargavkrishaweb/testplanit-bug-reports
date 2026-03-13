@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: TestPlanIt Test Runs
+    url: https://bhargavqa.testplanit.com/en-US/projects/runs
+    about: View all test runs and results in TestPlanIt before filing a bug.
